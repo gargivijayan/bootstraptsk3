@@ -1,0 +1,53 @@
+.main{
+    background-color: rgb(3, 3, 133);
+}
+.images{
+    height: 281px;
+}
+.side{
+    background-color: rgba(7, 173, 96, 0.836);
+    list-style-type:square;
+
+}
+.end{
+    background-color: rgb(226, 222, 222);
+
+}
+
+
+.main ul{
+    display: flex;
+    margin: 0%;
+
+}
+    
+.main ul li{
+    border-right: 1px solid;
+    padding-left: 12px;
+  
+    font-size: 15px;
+    list-style-type: none;
+    color: white;
+    padding-right: 12px;
+}
+
+.pic{
+    font-size: 13px !important;
+}
+
+
+.one{
+    margin-top: 0px;
+}
+
+.logoname{
+    height: 45px;
+}
+
+
+
+
+
+
+
+
